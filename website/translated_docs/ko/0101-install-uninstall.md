@@ -1,7 +1,7 @@
 ---
 id: 0101-install-uninstall
 title: 설치와 제거
-sidebar_label: 설치와 제거
+sidebar_label: 설치와 제거(TEST)
 ---
 
 ## SQLGate 설치하기
